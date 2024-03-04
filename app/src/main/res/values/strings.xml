@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">H071221046</string>
+
+    <string-array name="kelas">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+</resources>
